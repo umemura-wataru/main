@@ -1,17 +1,24 @@
+html {
+/*   font-family: "Dancing Script", cursive;
+  font-family: "Noto Sans JP", sans-serif; */
+/*   font-family: "Poppins", sans-serif;
+ */
+}
+
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 700
 
-.dancing-script-<uniquifier> {
+/* .dancing-script-<uniquifier> {
   font-family: "Dancing Script", cursive;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
 }
-
+ */
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 100 to 900
 
-.noto-sans jp-<uniquifier> {
+/* .noto-sans jp-<uniquifier> {
   font-family: "Noto Sans JP", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -23,8 +30,8 @@
   font-weight: 100;
   font-style: normal;
 }
-
-.poppins-extralight {
+ */
+/* .poppins-extralight {
   font-family: "Poppins", sans-serif;
   font-weight: 200;
   font-style: normal;
@@ -125,3 +132,4 @@
   font-weight: 900;
   font-style: italic;
 }
+ */

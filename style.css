@@ -5,6 +5,13 @@ html {
  */
 }
 
+
+.container {
+  width: 90%;
+  max-width: 1120px;
+  background-color: green;
+}
+
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 700
 
@@ -133,9 +140,3 @@ html {
   font-style: italic;
 }
  */
-
-.container {
-  width: 90%;
-  max-width: 1120px;
-  background-color: green;
-}

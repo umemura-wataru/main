@@ -4,7 +4,7 @@ html {
 }
 
 .pop {
-font-family: "Poppins", sans-serif;
+  font-family: "Poppins", sans-serif;
   }
   
 .container {
@@ -31,6 +31,11 @@ font-family: "Poppins", sans-serif;
   font-weight: 700;
   letter-spaceing: -0.04em;
 }
+
+.logo span {
+  color: #80BA4A;
+}
+
 
 
 

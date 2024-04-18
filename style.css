@@ -133,3 +133,9 @@ html {
   font-style: italic;
 }
  */
+
+.container {
+  width: 90%;
+  max-width: 1120px;
+  background-color: green;
+}

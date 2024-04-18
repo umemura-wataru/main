@@ -49,8 +49,11 @@ margin-left: 40px;
   transition: .3s;
 }
 
+/* main */
 
-
+#hero {
+  
+}
 
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 700

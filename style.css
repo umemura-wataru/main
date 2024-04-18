@@ -10,6 +10,7 @@ html {
   width: 90%;
   max-width: 1120px;
   background-color: green;
+  margin: 0 auto;
 }
 
 // <uniquifier>: Use a unique and descriptive class name

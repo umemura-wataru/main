@@ -1,10 +1,12 @@
 html {
-/*   font-family: "Dancing Script", cursive;
-  font-family: "Noto Sans JP", sans-serif; */
-/*   font-family: "Poppins", sans-serif;
- */
+  font-family: "Dancing Script", cursive;
+/*   font-family: "Noto Sans JP", sans-serif; */
 }
 
+.pop {
+font-family: "Poppins", sans-serif;
+  }
+  
 .container {
   width: 90%;
   max-width: 1120px;
@@ -23,6 +25,14 @@ html {
 .header {
   padding: 27px 0;
 }
+
+.logo {
+  font-size: 24px;
+  font-weight: 700;
+  letter-spaceing: -0.04em;
+}
+
+
 
 // <uniquifier>: Use a unique and descriptive class name
 // <weight>: Use a value from 400 to 700

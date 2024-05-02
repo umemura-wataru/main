@@ -52,8 +52,9 @@ margin-left: 40px;
 /* main */
 
 #hero {
-  background-image: url(https://github.com/umemura-wataru/main/issues/1#issue-2250435778);
+  background-image: url(.../issues/1#issue-2250435778);
   background-position: center;
+  background-size: cover;
 }
 
 // <uniquifier>: Use a unique and descriptive class name

@@ -56,6 +56,9 @@ margin-left: 40px;
   background-position: center;
   background-size: cover;
   height: 540px;
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
 }
 
 // <uniquifier>: Use a unique and descriptive class name

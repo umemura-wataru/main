@@ -52,9 +52,10 @@ margin-left: 40px;
 /* main */
 
 #hero {
-  background-image: url(../main/hero.jpg);
+  background-image: url(./hero.jpg);
   background-position: center;
   background-size: cover;
+  height: 540px;
 }
 
 // <uniquifier>: Use a unique and descriptive class name
